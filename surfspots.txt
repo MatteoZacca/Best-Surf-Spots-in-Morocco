@@ -3,9 +3,10 @@ Imsouane
 - The Cathedrale
 
 Taghazout
-- Panorama
+- Panorama Point
 - Anchor Point
 - Hash Point
+- Killer Point
 
 Essaouira
 - Essaouira'beach 
@@ -13,3 +14,4 @@ Essaouira
 Trekking Atlas Mountains
 
 Two days in Sahara Desert with real beduins
+
